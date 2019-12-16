@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/danmalmx/Advanced_CSS/issues"
   },
-  "homepage": "https://github.com/danmalmx/Advanced_CSS#readme"
+  "homepage": "https://github.com/danmalmx/Advanced_CSS#readme",
+  "devDependencies": {
+    "node-sass": "^4.13.0"
+  }
 }
